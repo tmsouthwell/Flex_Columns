@@ -1,0 +1,15 @@
+* {
+    margin:0px auto;
+    padding:0px;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex 1;
+    height: 300px;
+    width:300px;
+    background-color: cornflowerblue;
+}   
